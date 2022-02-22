@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rpDaWNsHyvpVqGaKwkDWx7MF/Jqq8S8PaZYzMdpXgtGZ0RcKCoMjbdhGLVb6Ve16SGcBMCbldplSTInphUQ1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cachamorrov\\Desktop\\ProjectContact\\ProjectContact.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cachamorrov\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
